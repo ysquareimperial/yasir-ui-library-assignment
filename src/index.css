@@ -1,0 +1,31 @@
+* {
+  font-family: "Poppins", sans-serif;
+  background-color: rgb(16, 16, 16);
+}
+.whole {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+h1{
+  color: white;
+  font-weight: 700;
+  font-size: 100px;
+  margin: 0;
+}
+p{
+  color: white;
+  font-size: 20px;
+}
+button{
+  background-color: rgb(0, 74, 90);
+  color: white;
+  border-radius: 50px;
+  padding: 10px 40px;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid rgb(255, 255, 255);
+  cursor: pointer;
+}
